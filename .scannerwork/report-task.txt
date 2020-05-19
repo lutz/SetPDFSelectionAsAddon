@@ -1,0 +1,7 @@
+organization=lutz
+projectKey=lutz_SetPDFSelectionAsAddon
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8111
+dashboardUrl=https://sonarcloud.io/dashboard?id=lutz_SetPDFSelectionAsAddon
+ceTaskId=AXIsHrpAfOxSja6fOjGG
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXIsHrpAfOxSja6fOjGG
